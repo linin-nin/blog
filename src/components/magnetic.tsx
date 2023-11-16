@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useRef, ReactElement } from 'react';
 import gsap from 'gsap';
 
